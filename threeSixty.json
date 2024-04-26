@@ -1,0 +1,140 @@
+{
+  "version": "3.84.31722.0",
+  "course_id": "5k7bK7lVlaC_course_id",
+  "title": "Jeopardy-Inspired Game Show Template",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Jeopardy Inspired Game Show"
+    },
+    {
+      "title": "Category 1"
+    },
+    {
+      "title": "Category 2"
+    },
+    {
+      "title": "Category 3"
+    },
+    {
+      "title": "Category 4"
+    },
+    {
+      "title": "Bonus Question"
+    },
+    {
+      "title": "Total Score"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6Y8yI7wC9CE",
+      "title": "Welcome",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6fMNZ2mnv33",
+      "title": "Question Board",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6JBoy7pTzIn",
+      "title": "250",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5nxaK00W5h1",
+      "title": "500",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6kxNGTJUqhN",
+      "title": "750",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6Vxjpo0xyzM",
+      "title": "1000",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6PjH0COvSyD",
+      "title": "250",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5gNznIyqEiW",
+      "title": "500",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6bUW5Ph8zvo",
+      "title": "750",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "5apIg6du5dL",
+      "title": "1000",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6L81uwo3VjO",
+      "title": "250",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6S0B7vqo1td",
+      "title": "500",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6EWXjfltcOA",
+      "title": "750",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "5msJYqWw4Ln",
+      "title": "1000",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "5uJi9wEM8LG",
+      "title": "250",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "6BqySzSxtVb",
+      "title": "500",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "5s5Xl5vWRvE",
+      "title": "750",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "6cfoWmTa0wh",
+      "title": "1000",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "6nuRmVS2isY",
+      "title": "Final Question",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "60ISLWwsZYs",
+      "title": "Total Score",
+      "scene_index": "7.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
